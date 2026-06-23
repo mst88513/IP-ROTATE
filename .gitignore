@@ -1,0 +1,12 @@
+.hwid
+*.pyc
+__pycache__/
+*.log
+rotation_log.txt
+rotation_log_encrypted.txt
+*.old
+*.tmp
+.DS_Store
+venv/
+env/
+*.pid
